@@ -1,0 +1,7 @@
+This is a simple javascriptlet, with which you can easily check IP reputations without leaving the current page by saving this as a bookmark
+
+1. Select all the IPs you want to check reputation.
+<img width="1015" height="686" alt="image" src="https://github.com/user-attachments/assets/f01d23b1-4312-4155-9eac-5f6a4fa5eeac" />
+
+2. Select the UI and press Ctrl+C
+<img width="1147" height="783" alt="image" src="https://github.com/user-attachments/assets/53e10797-d326-4f8f-ba52-6706812f730c" />
