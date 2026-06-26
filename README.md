@@ -1,4 +1,4 @@
-There is a simple javascriptlet inside IP-CHK.txt , with which you can easily check IP reputations without leaving the current page by saving it as a bookmark
+There is a simple javascriptlet inside IP-CHK.txt , with which you can easily check IP reputations without leaving the current page (ie:gsoar,spreadsheet etc..) by saving it as a bookmark
 <img width="736" height="247" alt="image" src="https://github.com/user-attachments/assets/f16189a5-9e84-4ff2-be80-f3b5c0341135" />
 
 1. Select all the IPs you want to check reputation from current page. ( other page / text list etc.. also work since it takes the clipboard as input)
